@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zahra Zen Marbun</h1>
-
 <h3 align="center">I’m a mentee on IBM Advance AI at Infinite Learning</h3>
 
 - 🌱 I’m currently learning **AI**
