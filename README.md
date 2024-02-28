@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Zen Marbun</h1>
-<img align="center" alt="web-developer" width="100%" scrv="https://gifdb.com/gif/hacker-egghead-coding-lj7znezbwb0nuba4.html?embed=true">
+<img align="center" alt="web-developer" width="100%" scrv="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
 <h3 align="center">I’m a mentee on IBM Advance AI at Infinite Learning</h3>
 
 - 🌱 I’m currently learning **AI**
