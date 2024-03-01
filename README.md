@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahra Zen Marbun</h1>
 <h3 align="center">I’m a mentee on IBM Advance AI at Infinite Learning</h3>
 
-<img align="righ" alt="coding" width="400" src="![image](https://github.com/zahrazenmarbun/zahrazenmarbun/assets/155308859/c011aeea-e3d8-4053-abb8-8ce10bc0ef7a)"
+<img align="right" alt="coding" width="400" src="![image](https://github.com/zahrazenmarbun/zahrazenmarbun/assets/155308859/c011aeea-e3d8-4053-abb8-8ce10bc0ef7a)"
 >  
 
 
