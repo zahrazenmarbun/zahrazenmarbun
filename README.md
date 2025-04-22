@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently studing on [Politeknik Negeri Batam](https://www.polibatam.ac.id/)
 
-- 🌱 I’m currently learning **AI**
-
 - 📫 How to reach me **zar260404@gmail.com**
 
 - ⚡ Fun fact **whatever is fun😉**
